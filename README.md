@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">If you like my work you can donate here:</h3>
 <p><a href="https://www.buymeacoffee.com/luzgrey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
+
+![Snake animation](https://github.com/luzmagrey/luzmagrey/blob/output/github-contribution-grid-snake.svg)
