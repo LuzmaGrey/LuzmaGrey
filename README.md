@@ -19,6 +19,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
 </div>
+<h3 align="left">Currently learning</h3>
+<div align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="30" width="42" alt="java logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" height="30" width="42" alt="spring logo"/>
+</div>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luzmagrey&show_icons=true&locale=en&layout=compact" alt="luzmagrey" /></p>
