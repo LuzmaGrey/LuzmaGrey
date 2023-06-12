@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning more Javascript, React, GraphQL, backend stack, etc...
+- 🌱 I’m currently learning more about Javascript, and in the backend side Java. 
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I love coffe but barely like latte... 
 
